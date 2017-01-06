@@ -14,7 +14,7 @@ IMAGE_INSTALL += " iotivity-resource-thin-staticdev "
 IMAGE_INSTALL += " iotivity-service-dev "
 IMAGE_INSTALL += " iotivity-service-staticdev "
 
-IMAGE_INSTALL += " iotivity-example "
 IMAGE_INSTALL += " iotivity-node "
 IMAGE_INSTALL += " nodejs "
 IMAGE_INSTALL += " nodejs-npm "
+IMAGE_INSTALL += " git "
