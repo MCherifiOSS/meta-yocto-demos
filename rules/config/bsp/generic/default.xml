@@ -3,6 +3,6 @@
   <remote fetch="http://git.yoctoproject.org/git/" name="yocto"/>
   <remote fetch="https://github.com/" name="github"/>
   <project name="poky" remote="yocto" revision="master"/>
-  <project name="meta-oic" path="meta-oic" remote="github" revision="master"/>
+  <project name="meta-oic" path="meta-oic" remote="yocto" revision="master"/>
   <project name="ostroproject/meta-iot-web" path="meta-iot-web" remote="github" revision="master"/>
 </manifest>
