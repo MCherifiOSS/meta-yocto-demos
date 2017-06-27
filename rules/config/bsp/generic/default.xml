@@ -6,5 +6,5 @@
   <project name="poky" remote="yocto" revision="master"/>
   <project name="meta-oic" path="meta-oic" remote="yocto" revision="master"/>
   <project name="ostroproject/meta-iot-web" path="meta-iot-web" remote="github" revision="master"/>
-  <project name="meta-ocf-automotive" remote="s-osg" revision="sandbox/pcoval/devel" upstream="master" />
+  <project name="meta-ocf-automotive" remote="github" revision="sandbox/pcoval/devel" upstream="master" />
 </manifest>
