@@ -5,7 +5,7 @@
   <remote fetch="http://git.s-osg.org/" name="s-osg" />
   <remote fetch="https://github.com/tizenteam" name="team"/>
   <project name="poky" remote="yocto" revision="master"/>
-  <project name="meta-oic" path="meta-oic" remote="yocto" revision="master"/>
+  <project name="meta-oic" path="meta-oic" remote="yocto" revision="morty"/>
   <project name="ostroproject/meta-iot-web" path="meta-iot-web" remote="github" revision="master"/>
   <project name="meta-ocf-automotive" remote="team" revision="sandbox/pcoval/on/master/devel" upstream="master" />
 </manifest>
